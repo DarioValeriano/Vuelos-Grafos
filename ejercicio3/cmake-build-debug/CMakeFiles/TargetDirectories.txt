@@ -1,0 +1,3 @@
+/home/pc/CLionProjects/Grafo problema implementacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pc/CLionProjects/Grafo problema implementacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pc/CLionProjects/Grafo problema implementacion/cmake-build-debug/CMakeFiles/grafos.dir

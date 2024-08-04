@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/grafos.dir/main.cpp.o CMakeFiles/grafos.dir/Grafo.cpp.o CMakeFiles/grafos.dir/Vertice.cpp.o CMakeFiles/grafos.dir/Floyd.cpp.o CMakeFiles/grafos.dir/CaminoMinimo.cpp.o CMakeFiles/grafos.dir/Dijkstra.cpp.o -o grafos 

@@ -1,0 +1,13 @@
+EZE Ministro-Pistarini Ezeiza Argentina LAX Aeropuerto-Internacional-de-los-Angeles Los-Angeles EEUU 92859
+EZE Ministro-Pistarini Ezeiza Argentina FCO Aeropuerto-Internacional-de-Fiumicino Roma Italia 115277
+FCO Aeropuerto-Internacional-de-Fiumicino Roma Italia TXL Otto-Lilielenthal Berlin Alemania 29193
+DXB Aeropuerto-Internacional-de-Dubai Dubai Emiratos-Arabes-unidos EZE Ministro-Pistarini Ezeiza Argentina 250000
+CUU Aeropuerto-Internacional-General-Roberto-Fierro-Villalobos Chihuahua Mexico CDT Aeropuerto-de-Castellon Castellon Espania 78000
+CMN Aeropuerto-Internacional-Mohammed-V Casablanca Marruecos CDG Aeropuerto-de-Paris-Charles-de-Gaulle Paris Francia 98500
+LAX Aeropuerto-Internacional-de-los-Angeles Los-Angeles EEUU TXL Otto-Lilielenthal Berlin Alemania 50193
+CMN Aeropuerto-Internacional-Mohammed-V Casablanca Marruecos EEUU TXL Otto-Lilielenthal Berlin Alemania 25193
+EEUU TXL Otto-Lilielenthal Berlin Alemania EZE Ministro-Pistarini Ezeiza Argentina 170000
+EEUU TXL Otto-Lilielenthal Berlin Alemania CMN Aeropuerto-Internacional-Mohammed-V Casablanca Marruecos 15000
+CMN Aeropuerto-Internacional-Mohammed-V Casablanca Marruecos LAX Aeropuerto-Internacional-de-los-Angeles Los-Angeles EEUU 75000
+LAX Aeropuerto-Internacional-de-los-Angeles Los-Angeles EEUU EZE Ministro-Pistarini Ezeiza Argentina 70000
+EZE Ministro-Pistarini Ezeiza Argentina CDG Aeropuerto-de-Paris-Charles-de-Gaulle Paris Francia 200000
